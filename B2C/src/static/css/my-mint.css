@@ -1,0 +1,55 @@
+.mint-cell-swipe {
+	border-bottom: .032rem solid #f2f2f2;
+}
+.mint-cell-wrapper {
+	display: block;
+	background-image: none;
+	padding: 0;
+	/*border-bottom: .032rem solid #f2f2f2;*/
+}
+.mint-cell-swipe-buttongroup {
+	/*border-bottom: .032rem solid #f2f2f2;*/
+}
+.mint-cell {
+	background: none;
+}
+.messActive {
+	color: #FC2A2E;
+}
+.cancelMessActive {
+	color: #8A8A8A;
+}
+.mint-cell:last-child {
+	background-image: none;
+}
+.mint-radio-input:checked + .mint-radio-core {
+	background-color: #FC2A2E;
+    border-color: #FC2A2E;
+}
+.mint-radiolist-title {
+	margin: 0;
+}
+
+.mint-loadmore-bottom span {
+    display: inline-block;
+    -webkit-transition: .2s linear;
+    transition: .2s linear;
+    vertical-align: middle
+}
+.mint-loadmore-bottom span.is-rotate {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg)
+}
+.mint-actionsheet-listitem, .mint-actionsheet-button {
+	font-size: 0.406rem;
+}
+
+.indexshopList {
+	overflow: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+.indexshopList::-webkit-scrollbar {
+	display: none;
+}
+
+
