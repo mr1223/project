@@ -1,0 +1,19 @@
+{
+  "name": "vue-typescript-yarn",
+  "version": "0.0.0",
+  "description": "这是一个关于vue+typescript+yarn的项目",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ts-loader": "^4.0.0",
+    "tslint": "^5.9.1",
+    "tslint-config-standard": "^7.0.0",
+    "tslint-loader": "^3.5.3",
+    "typescript": "^2.7.2",
+    "vue": "^2.5.13",
+    "vue-class-component": "^6.2.0",
+    "vue-cli": "^2.9.3",
+    "vue-property-decorator": "^6.0.0",
+    "vue-router": "^3.0.1"
+  }
+}
